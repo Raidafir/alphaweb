@@ -1081,4 +1081,10 @@ a{
     }
     
 }
+
+
+.logo-img {
+    width: 100px; /* Ajuste cette valeur selon la taille souhaitée */
+    height: auto; /* Garde le ratio de l'image */
+}
 /* End animation */
